@@ -1,6 +1,6 @@
 # 🧠 Inteligência Artificial — Escola da Nuvem
 
-Este repositório contém exercícios desenvolvidos em Python como parte do módulo de **Inteligência Artificial** da [Escola da Nuvem](https://www.escoladanuvem.org/), ministrado pelo professor **Bruno Marques**.
+Este repositório contém exercícios desenvolvidos em Python como parte do módulo de **Inteligência Artificial** da [Escola da Nuvem](https://www.escoladanuvem.org/), ministrado pelo professor **Bruno Sousa**.
 
 ## 📚 Sobre o curso
 
@@ -25,7 +25,7 @@ Os arquivos estão organizados por aula ou tema, facilitando a navegação e o a
 
 ## 👨‍🏫 Professor
 
-**Bruno Marques** — Especialista em Inteligência Artificial e educador na Escola da Nuvem. Suas aulas combinam teoria sólida com prática aplicada, preparando os alunos para desafios reais no mercado de tecnologia.
+**Bruno Sousa** — Especialista em Inteligência Artificial e educador na Escola da Nuvem. Suas aulas combinam teoria sólida com prática aplicada, preparando os alunos para desafios reais no mercado de tecnologia.
 
 ## 📌 Observações
 
