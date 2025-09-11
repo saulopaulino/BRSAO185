@@ -18,8 +18,8 @@ Antes de rodar o projeto, certifique-se de ter:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone [https://github.com/saulopaulino/BRSAO185.git]
+   cd Extra
 Instale as dependências:
 
 bash
